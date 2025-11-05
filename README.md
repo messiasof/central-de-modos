@@ -7,4 +7,4 @@
 - Falar mais sobre as técnicas usadas, proposta e interface CLI
 
 ### Adicionar features
-[] Launcher em Python para montar seus próprios shortcuts e arquivo .ps1 
+[ ] Launcher em Python para montar seus próprios shortcuts e arquivo .ps1 
