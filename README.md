@@ -1,0 +1,1 @@
+shell:appsfolder pra achar os WindowsApps e criar atalhos
