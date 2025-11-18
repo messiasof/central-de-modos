@@ -11,7 +11,7 @@ pyautogui.FAILSAFE = True
 RECORDING_HOTKEY = ('ctrl', 'r')
 STOPRECORDING_HOTKEY = ('escape')
 SLEEP_TIME = 5
-SOUNDRECORDING_APP = "shortcuts\\winsoundrecorder.lnk"
+SOUNDRECORDING_APP = "user\\shortcuts\\winsoundrecorder.lnk"
 ###########################################################################################################
 os.startfile(SOUNDRECORDING_APP)
 pyautogui.sleep(SLEEP_TIME)

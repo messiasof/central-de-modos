@@ -102,7 +102,7 @@ function ModoVisual {
         }
         elseif ($opcao -eq "c") {
             Clean
-            Start-Process '.\shortcuts\pencil2d - Shortcut.lnk'
+            Start-Process '.\user\shortcuts\pencil2d.lnk' # Teste
             ModoVisual
         }
     }
@@ -119,7 +119,7 @@ function ModoRelaxamento {
             Menu
         }
         elseif ($opcao -eq "c") {
-            Start-Process '.\shortcuts\Spotify - Shortcut.lnk'
+            Start-Process '.\user\shortcuts\spotify.lnk' # Teste
             ModoRelaxamento
         }
     }
