@@ -7,6 +7,10 @@ __pycache__/
 shortcuts/
 !shortcuts/.none
 
+# Configs
+*.config
+!default.config
+
 # IDEs / OS
 .vscode/
 .idea/
