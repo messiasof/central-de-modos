@@ -1,5 +1,6 @@
 # Central de Modos
 `PLACEHOLDER: storytelling, o motivo disso aqui existir, etc...`
+`Táticas de produtividade (específicas para autismo + TOC) e depressão`
 
 ### Placeholders e coisas para escrever no README
 - shell:appsfolder pra achar os WindowsApps e criar atalhos
