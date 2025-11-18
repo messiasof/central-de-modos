@@ -13,7 +13,7 @@ user/shortcuts/*
 *.config
 !default.config
 
-# IDEs / OS
+# IDEs e Sistemas Operacionais
 .vscode/
 .idea/
 .DS_Store

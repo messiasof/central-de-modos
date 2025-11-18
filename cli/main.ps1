@@ -21,7 +21,7 @@ $deco_miniline = -join ($line*2+$tip+$tipextra)
 
 $deco_miniline_custom1 = -join ($line*18+$line*10+$tip+$tipextra)
 
-# Declaração de funções (o coração do programa)
+# Declaração de funções (que é o coração do programa)
 function Clean{
     Clear-Host
 }

@@ -1,4 +1,4 @@
-# Needs A, B, C software            |   placeholder:WIN AUDIO RECORDER
+# Needs A, B, C software           |   placeholder:WIN AUDIO RECORDER
 import pyautogui
 import pywinauto
 
