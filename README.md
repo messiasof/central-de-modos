@@ -8,10 +8,10 @@
 - Falar mais sobre as técnicas usadas, proposta e interface CLI
 
 ### Para fazer
-[ ] Invés de Start-Process com paths é necessário que o CLI leia do `user\.config` e que você possa configurar o `user\.config` pelo CLI ou GUI. Ele deve servir para os dois
+[ ] Invés de `Start-Process` com paths é necessário que o CLI leia do `user\.config` e que você possa configurar o `user\.config` pelo CLI ou GUI. Ele deve servir para os dois
 [ ] Remover flags `# Teste` do scripts, cli e gui
 [ ] Launcher em Python para montar seus próprios shortcuts e arquivo `.ps1` 
-[ ] Opção de CLI e GUI (via instalador .exe para Windows)
+[ ] Opção de CLI e GUI (via instalador `.exe` ou `.msi` ou `.msx` para Windows)
 [ ] Suporte para Linux
 [ ] Criação de branch para "Messias Workflow Pack", com alguns scripts que eu uso.
 [ ] Melhoria no README
