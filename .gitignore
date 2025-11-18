@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Arquivos de log e shortcuts
+*.log
+shortcuts/
+!shortcuts/.none
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store

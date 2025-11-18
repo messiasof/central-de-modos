@@ -1,0 +1,11 @@
+# O que é o .none?
+É só um placeholder. Aqui no shortcuts você vai inserir os atalhos dos seus arquivos.
+Eles são, bem... atalhos para o seu código executar os programas desejados.
+
+## Não consigo achar alguns apps no Windows para criar atalhos.
+É, o Windows é meio chato com isso. É só fazer o seguinte:
+- `Win + R` para abrir o `Executar`
+- Escreva `shell:appsfolder`
+- Execute
+
+Lá está todos seus aplicativos, basta clicar com botão direito do mouse e criar um atalho, ele será enviado para o desktop
