@@ -1,5 +1,7 @@
 # Python bytecode
 __pycache__/
+user/__pycache__/
+user/scripts/__pycache__/
 *.py[cod]
 
 # Arquivos de log e shortcuts
